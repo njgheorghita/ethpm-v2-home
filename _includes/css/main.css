@@ -175,9 +175,9 @@ nav ul li:hover, nav ul li.active {
   /* generated noise from noisetexturegenerator.com */
 }
 
-.section:first-of-type {
-    padding: 200px;
-}
+/*.section:first-of-type {*/
+    /*padding: 200px;*/
+/*}*/
 
 
 #footer {

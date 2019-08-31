@@ -18,7 +18,7 @@ title:       "ethPM v2 - Ethereum Package Management"
 keywords:    "ethereum, ethpm, package management, blockchain"
 description: "Source for ethPM stuff."
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"
+favicon:     "img/package.png"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: 
 
