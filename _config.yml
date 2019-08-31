@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "EthPM v2 - Ethereum Package Management"
+title:       "ethPM v2 - Ethereum Package Management"
 keywords:    "ethereum, ethpm, package management, blockchain"
-description: "Source for EthPM stuff."
+description: "Source for ethPM stuff."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
